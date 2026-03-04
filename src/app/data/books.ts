@@ -79,6 +79,7 @@ export const books: Book[] = [
         title: "Глава 1",
         content: chapterContents["4-1"],
       },
+      { id: 2, title: "Глава 2", content: chapterContents["4-2"] },
     ],
   },
   {

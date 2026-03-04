@@ -9,7 +9,7 @@ if (!rootElement) throw new Error('Failed to find the root element');
 
 createRoot(rootElement).render(
   <StrictMode>
-    <BrowserRouter basename="/Author-s-Personal-Website">
+    <BrowserRouter basename="/The-Author-s-Website">
       <App />
     </BrowserRouter>
   </StrictMode>

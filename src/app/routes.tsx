@@ -23,6 +23,6 @@ export const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/Author-s-Personal-Website",
+    basename: "/The-Author-s-Website",
   }
 );
